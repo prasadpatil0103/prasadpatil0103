@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prasad Patil
 
-**Data Scientist | Financial Systems Specialist | MS in Data Science @ Syracuse University**
+**Data Scientist | Analytics & Data Engineering | MS in Data Science @ Syracuse University**
 
 I am a Data Scientist with over 2 years of experience specializing in the intersection of Scalable Engineering and Predictive Analytics. My background at Tata Consultancy Services (TCS) involved maintaining the integrity of enterprise-scale financial data, which I now leverage to build robust machine learning solutions and high-fidelity business intelligence dashboards.
 
