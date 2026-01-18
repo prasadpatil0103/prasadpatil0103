@@ -56,9 +56,9 @@ Integrated structured CSV and semi-structured JSON data to forecast film financi
 
 ## 📊 GitHub Stats
 
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadpatil0103&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadpatil0103&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 
