@@ -23,11 +23,17 @@ I am a Data Scientist with over 2 years of experience specializing in the inters
 
 ## 💼 Professional Experience
 
-**System Analyst | Tata Consultancy Services (TCS) | July 2022 – July 2024**
-* Managed data integrity for high-volume banking operations, processing 450M+ transactions daily.
-* Created Source-to-Target Mappings (STTM) for 15 databases to ensure transformation accuracy during data integration.
-* Performed deep-dive Root Cause Analysis (RCA) on 85+ systemic data quality issues, reducing reporting errors by 40%.
-* Documented complex business logic for 200+ SQL procedures, establishing a single source of truth for financial reporting.
+### System Analyst | Tata Consultancy Services (TCS) | July 2022 – July 2024
+* Modernized financial reporting systems by extracting business logic from 200+ SQL procedures for critical updates.
+* Streamlined data integration and created robust validation datasets across 15 databases using high-accuracy mappings.
+* Improved data integrity by 40% by resolving 85+ quality issues through rigorous root cause analysis and exploratory data analysis.
+* Validated 450M+ transactions across large-scale datasets, leveraging advanced SQL and statistical modeling.
+
+### Testing Chamber Performance Analyst | JMA Wireless | Aug 2024 – Dec 2024
+* Slashed SLA breaches by 40% by re-engineering testing workflows to eliminate systemic operational bottlenecks.
+* Reduced process variance by 2.5x, creating standardized workflows that stabilized critical business output.
+* Captured $3.3M in annual savings while driving 45% productivity gains through advanced performance analytics.
+* Provided scenario models with 95% statistical confidence for executive leadership, enabling data-driven strategic decisions.
 
 ## 📂 Featured Projects
 
