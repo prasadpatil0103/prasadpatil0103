@@ -29,7 +29,7 @@ I am a Data Scientist with over 2 years of experience specializing in the inters
 * Improved data integrity by 40% by resolving 85+ quality issues through rigorous root cause analysis and exploratory data analysis.
 * Validated 450M+ transactions across large-scale datasets, leveraging advanced SQL and statistical modeling.
 
-### Testing Chamber Performance Analyst | JMA Wireless | Aug 2024 – Dec 2024
+### Testing Chamber Data Analyst | JMA Wireless | Aug 2024 – Dec 2024
 * Slashed SLA breaches by 40% by re-engineering testing workflows to eliminate systemic operational bottlenecks.
 * Reduced process variance by 2.5x, creating standardized workflows that stabilized critical business output.
 * Captured $3.3M in annual savings while driving 45% productivity gains through advanced performance analytics.
