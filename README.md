@@ -41,7 +41,7 @@ Data Scientist with 2 years of industry experience in statistical modeling and d
 
 ## 📂 Featured Projects
 
-### <u> 1. Healthcare Hub: End-to-End Analytics Engineering</u>
+### 1. Healthcare Hub: End-to-End Analytics Engineering
 Designed and implemented a scalable ELT pipeline using dbt and Snowflake to transform raw healthcare business data into governed Power BI intelligence.
 * **Impact**: Reduced manual auditing time by 50%, improved pipeline maintainability by 3x, and established a Single Source of Truth across Sales, Inventory, Procurement, and Healthcare operations.
 * **Engineering**: Built a modular ELT architecture in Snowflake using dbt (staging → marts → star schema), implemented automated data quality tests (unique & non-null constraints), and designed conformed dimensions (Date, Product, Store) using the Kimball Bus Matrix to enable drill-across analytics across multiple fact tables.
