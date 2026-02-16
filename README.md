@@ -61,8 +61,8 @@ Integrated structured CSV and semi-structured JSON data to forecast film financi
 
 ## 📜 Certifications & Publications
 
-* ![Snowflake: Data Warehousing Workshop (DWW)](https://achieve.snowflake.com/7515e96b-71d4-4ad6-a3f4-c60c33dedf8e#acc.2SMBOTNP)
-* ![LinkedIn: Learning Linux Command Line](https://www.linkedin.com/learning/certificates/d70dbbcd39f72e6a33dc39e04a839d9954623c47ae868a92efb49ab1132b8dcf?u=76816226)
+* [Snowflake: Data Warehousing Workshop (DWW)](https://achieve.snowflake.com/7515e96b-71d4-4ad6-a3f4-c60c33dedf8e#acc.2SMBOTNP)
+* [LinkedIn: Learning Linux Command Line](https://www.linkedin.com/learning/certificates/d70dbbcd39f72e6a33dc39e04a839d9954623c47ae868a92efb49ab1132b8dcf?u=76816226)
 * **Publication**: "Voice Controlled E-commerce Web App" – International Research Journal of Engineering and Technology (IRJET-V9I194)
 
 ## 📊 GitHub Stats
