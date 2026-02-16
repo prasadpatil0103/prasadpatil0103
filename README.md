@@ -67,9 +67,9 @@ Integrated structured CSV and semi-structured JSON data to forecast film financi
 
 ## 📊 GitHub Stats
 
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadpatil0103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=06b6d4&text_color=f1f5f9)
+[Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadpatil0103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=06b6d4&text_color=f1f5f9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadpatil0103&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadpatil0103&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasadpatil0103&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=f97316&currStreakLabel=f1f5f9)
 
