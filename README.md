@@ -46,7 +46,7 @@ Designed and implemented a scalable ELT pipeline using dbt and Snowflake to tran
 * **Impact**: Reduced manual auditing time by 50%, improved pipeline maintainability by 3x, and established a Single Source of Truth across Sales, Inventory, Procurement, and Healthcare operations.
 * **Engineering**: Built a modular ELT architecture in Snowflake using dbt (staging → marts → star schema), implemented automated data quality tests (unique & non-null constraints), and designed conformed dimensions (Date, Product, Store) using the Kimball Bus Matrix to enable drill-across analytics across multiple fact tables.
 
-&nbsp;
+--
 
 ### 2. History of AI and ML: Comprehensive Market Analysis
 Built an interactive Tableau dashboard analyzing the global evolution of Artificial Intelligence and Machine Learning, quantifying investment flows, job market transformation, corporate adoption, and the post-ChatGPT paradigm shift.
