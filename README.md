@@ -41,18 +41,35 @@ Data Scientist with 2 years of industry experience in statistical modeling and d
 
 ## 📂 Featured Projects
 
-### Airline Delay Prediction & Risk Mitigation (6M+ Records)
-Developed an end-to-end ML pipeline using U.S. Bureau of Transportation data to predict disruptions.
-* **Impact**: Achieved 92.11% accuracy with a Random Forest model.
-* **Engineering**: Processed 6.07M rows and engineered custom temporal features to identify seasonal bottlenecks.
+### Healthcare Hub: End-to-End Analytics Engineering
+Designed and implemented a scalable ELT pipeline using dbt and Snowflake to transform raw healthcare business data into governed Power BI intelligence.
+* **Impact**: Reduced manual auditing time by 50%, improved pipeline maintainability by 3x, and established a Single Source of Truth across Sales, Inventory, Procurement, and Healthcare operations.
+* **Engineering**: Built a modular ELT architecture in Snowflake using dbt (staging → marts → star schema), implemented automated data quality tests (unique & non-null constraints), and designed conformed dimensions (Date, Product, Store) using the Kimball Bus Matrix to enable drill-across analytics across multiple fact tables.
 
-### JMA Testing Chamber Performance Analytics
-Conducted operational efficiency analysis to optimize high-stakes testing environments.
-* **Outcome**: Identified cost-saving opportunities and process improvements valued at $3.3M.
+### History of AI and ML: Comprehensive Market Analysis
+Built an interactive Tableau dashboard analyzing the global evolution of Artificial Intelligence and Machine Learning, quantifying investment flows, job market transformation, corporate adoption, and the post-ChatGPT paradigm shift.
+* **Impact**: Identified a $534.5B U.S. AI investment dominance, measured 300%+ post-ChatGPT search growth across AI domains, and analyzed 190K+ AI-related job postings to uncover high-demand skills and global competitiveness trends.
+* **Engineering**: Aggregated multi-source datasets (investment reports, job market data, AI readiness indices), implemented time-series and correlation analysis to detect inflection points (e.g., ChatGPT launch), and developed multi-layered Tableau dashboards with geographic mapping, domain heatmaps, corporate employment tracking, and dynamic drill-down filters.
 
-### Movie Ratings Analytics: Predictive Revenue Modeling
-Integrated structured CSV and semi-structured JSON data to forecast film financial performance.
-* **Technique**: Applied Multiple Linear Regression to quantify the impact of cast popularity and budget on box office gross.
+### Crime Detection in Syracuse Using Machine Learning
+Developed a machine learning system to forecast crime trends and classify high-risk zones in Syracuse using time-series modeling and spatial risk prediction.
+* **Impact**: Achieved 0.86 R² using SARIMA for temporal forecasting and 88.6% accuracy with Random Forest for spatial risk classification, enabling proactive hotspot identification and data-driven resource allocation.
+* **Engineering**: Built a spatio-temporal pipeline integrating crime and unemployment data (2023–2024), applied SMOTE to improve minority class performance by 15%, engineered socioeconomic features, and deployed an interactive Folium (Leaflet.js) dashboard with dynamic risk-zone visualization and drill-down crime insights.
+
+### Energy Hub: Predictive Consumption & Grid Reliability
+Designed an end-to-end predictive analytics platform to forecast energy demand spikes and simulate grid stress under extreme climate scenarios in South Carolina..
+* **Impact**: Achieved 93.16% predictive accuracy with SVM regression, quantified a 32% exponential demand surge per 5° temperature rise, and projected peak loads of 894.39 KWH—enabling proactive grid stabilization and climate-resilient planning.
+* **Engineering**: Built a full ELT + ML pipeline using Snowflake and dbt to create a feature store from housing and weather data (Arrow/Parquet optimized), then deployed an R-based SVM (RBF kernel) forecasting engine with RMSE of 0.708. Delivered an interactive R Shiny dashboard for real-time “what-if” simulations of temperature-driven demand spikes and infrastructure stress testing.
+  
+### Flight Delay Prediction (6M+ Records)
+Built a large-scale machine learning pipeline to classify and predict 15+ minute flight delays using U.S. aviation data.
+* **Impact**: Achieved 92.11% accuracy with a Random Forest classifier and identified departure delay as the strongest leading indicator of arrival delay—enabling earlier operational intervention and logistics optimization.
+* **Engineering**: Processed 6,073,466 flight records from the U.S. Bureau of Transportation Statistics, engineered custom features (Route, Is_Delay), analyzed hub-level bottlenecks at O'Hare International Airport and Hartsfield-Jackson Atlanta International Airport, and optimized a high-dimensional Random Forest model that outperformed KNN in predictive stability and scalability.
+
+### Movie Metrics: Predictive Modeling for Box Office Revenue
+Built a regression-based predictive framework using the IMDb 5000 dataset to quantify key drivers of box office success and estimate pre-production revenue potential.
+* **Impact**: Identified Budget and User Reviews as the strongest statistically significant predictors of gross revenue, while revealing that high “Star Power” (social media reach) alone does not guarantee financial success—challenging common studio assumptions.
+* **Engineering**: Cleaned and standardized 5,000+ film records from the Internet Movie Database, engineered a composite “Social Media Impact” feature (director + lead actor engagement), and developed a Multiple Linear Regression model to quantify the combined effect of budget, IMDb score, and audience reach on revenue outcomes.
 
 ## 🎓 Education
 
