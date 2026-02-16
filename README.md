@@ -2,38 +2,42 @@
 
 **Data Scientist | Analytics & Data Engineering | MS in Data Science @ Syracuse University**
 
-I am a Data Scientist with over 2 years of experience specializing in the intersection of Scalable Engineering and Predictive Analytics. My background at Tata Consultancy Services (TCS) involved maintaining the integrity of enterprise-scale financial data, which I now leverage to build robust machine learning solutions and high-fidelity business intelligence dashboards.
+Data Scientist with 2 years of industry experience in statistical modeling and data analysis, adept at leveraging Python, SQL, and Tableau to build predictive models. Modernized financial reporting by validating over 450M transactions and improved data integrity by 40%, while uncovering $3.3M in annual savings through advanced performance analytics.
 
 ## 🚀 Key Performance Metrics
 
-* **Big Data Scale**: Audited and verified 450M+ daily transactions within Core Banking systems to ensure 100% financial accuracy.
-* **Operational Impact**: Reduced data discrepancies by 40% and identified a $3.3M improvement opportunity through performance analytics.
-* **Accuracy & Logic**: Documented business logic for 200+ SQL procedures and resolved 85+ systemic data quality issues via Root Cause Analysis.
-* **ML Precision**: Engineered a flight delay prediction model achieving 92.11% accuracy using a dataset of 6M+ records.
-
+* **Big Data Integrity**: Validated and reconciled 450M+ financial transactions across large-scale datasets, ensuring 100% precision in mission-critical reporting.
+* **Operational Efficiency**: Automated legacy workflows to reduce manual reporting time by 50%, translating complex business requirements into streamlined, actionable data solutions.
+* **Data Governance & Quality**: Boosted data integrity by 40% by executing Root Cause Analysis (RCA) to resolve 85+ systemic quality issues across the pipeline.
+* **Systems Modernization**: Re-engineered financial reporting architecture by extracting and documenting business logic from 200+ SQL procedures, facilitating seamless cloud/system migrations.
+* **Integration Excellence**: Orchestrated data mapping across 15 disparate databases, ensuring high-accuracy synchronization and zero data loss during enterprise-wide transitions.
+  
 ## 🛠️ Technical Toolbox
 
 | Category | Tools & Technologies |
 |----------|---------------------|
-| **Languages** | Python (Pandas, Scikit-Learn, NumPy), SQL (Advanced), R |
-| **Machine Learning** | Random Forest, XGBoost, SVM, SARIMA, Feature Engineering, Model Validation |
-| **Databases** | Snowflake, SQL Server, PostgreSQL, MySQL, Oracle |
-| **Data Engineering** | ETL/ELT Pipelines, Data Quality Assessment (DQA), Root Cause Analysis (RCA) |
-| **Visualization** | Tableau, Power BI, Excel (Advanced), Dashboard Development |
+| **Languages & Programming** | Python, R, SQL, Bash, C++, HTML/CSS, Java |
+| **Data & Big Data** | Pyspark, Spark RDD, Hadoop, Kafka, Airflow, Firebase, PostgreSQL, MySQL, MongoDB |
+| **Machine Learning & AI** | Scikit-learn, XGBOOST, TensorFlow, Keras, PyTorch, OpenAI APIs |
+| **Analytics & BI Tools** | Power BI, Tableau, Plotly, DAX, Excel (VBA, Macros, Pivot Tables) |
+| **Data Infrastructure & Pipelines** | Snowflake, ETL/ELT Pipelines, SQL/NoSQL Databases, Data Cleaning, Data Preprocessing, Big Data Technologies (Spark, Hadoop) |
+| **Cloud Platforms** | AWS (S3, EC2, Lambda, Bedrock), Azure (basic familiarity), GCP (BigQyery, Cloud Storage) |
+| **Dev Tools & Frameworks** | Git, Docker, Flask, DBT, Jira, VSCode |
 
 ## 💼 Professional Experience
 
 ### System Analyst | Tata Consultancy Services (TCS) | July 2022 – July 2024
 * Modernized financial reporting systems by extracting business logic from 200+ SQL procedures for critical updates.
-* Streamlined data integration and created robust validation datasets across 15 databases using high-accuracy mappings.
-* Improved data integrity by 40% by resolving 85+ quality issues through rigorous root cause analysis and exploratory data analysis.
-* Validated 450M+ transactions across large-scale datasets, leveraging advanced SQL and statistical modeling.
+* Streamlined data integration across 15 databases using high-accuracy mappings to ensure seamless system transitions.
+* Improved data integrity by 40% by resolving 85+ quality issues through rigorous root cause analysis.
+* Guaranteed financial reporting precision by validating 450M+ transactions across several large-scale datasets.
+* Partnered with business & QA teams to translate requirements into actionable data solutions, reducing manual reporting time by 50%.
 
 ### Testing Chamber Data Analyst | JMA Wireless | Aug 2024 – Dec 2024
 * Slashed SLA breaches by 40% by re-engineering testing workflows to eliminate systemic operational bottlenecks.
-* Reduced process variance by 2.5x, creating standardized workflows that stabilized critical business output.
+* Reduced process variance by 2.5x, creating a standardized workflow that stabilized critical business output.
 * Captured $3.3M in annual savings while driving 45% productivity gains through advanced performance analytics.
-* Provided scenario models with 95% statistical confidence for executive leadership, enabling data-driven strategic decisions.
+* De-risked strategic scaling by providing scenario models with 95% statistical confidence for executive leadership.
 
 ## 📂 Featured Projects
 
@@ -57,7 +61,8 @@ Integrated structured CSV and semi-structured JSON data to forecast film financi
 
 ## 📜 Certifications & Publications
 
-* Snowflake: Data Warehousing Workshop (DWW)
+* ![Snowflake: Data Warehousing Workshop (DWW)](https://achieve.snowflake.com/7515e96b-71d4-4ad6-a3f4-c60c33dedf8e#acc.2SMBOTNP)
+* ![LinkedIn: Learning Linux Command Line](https://www.linkedin.com/learning/certificates/d70dbbcd39f72e6a33dc39e04a839d9954623c47ae868a92efb49ab1132b8dcf?u=76816226)
 * **Publication**: "Voice Controlled E-commerce Web App" – International Research Journal of Engineering and Technology (IRJET-V9I194)
 
 ## 📊 GitHub Stats
