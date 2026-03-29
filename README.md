@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Prasad Patil
 
-**Data Scientist | Analytics & Data Engineering | MS in Data Science @ Syracuse University**
+**Data Engineer | Analytics & Data Engineering | MS in Data Science @ Syracuse University**
 
-Data Scientist with 2 years of industry experience in statistical modeling and data analysis, adept at leveraging Python, SQL, and Tableau to build predictive models. Modernized financial reporting by validating over 450M transactions and improved data integrity by 40%, while uncovering $3.3M in annual savings through advanced performance analytics.
+Data Engineer with 2+ years of experience building scalable big data pipelines and distributed data platforms using SQL, Python, and Spark. Experienced in transforming structured and unstructured data from disparate sources into usable datasets through data modeling, enabling mission-driven analytics and decision systems.
 
 ## 🚀 Key Performance Metrics
 
@@ -26,52 +26,59 @@ Data Scientist with 2 years of industry experience in statistical modeling and d
 
 ## 💼 Professional Experience
 
-### System Analyst | Tata Consultancy Services (TCS) | July 2022 – July 2024
+### Data Engineer | JMA Wireless | Aug 2024 – Dec 2024
+* Slashed SLA breaches by 40% by re-engineering testing workflows to eliminate systemic operational bottlenecks.
+* Reduced process variance by 2.5x, creating a standardized workflow that stabilized critical business output.
+* Captured $3.3M in annual savings while driving 45% productivity gains through advanced performance analytics.
+* De-risked strategic scaling by providing scenario models with 95% statistical confidence for executive leadership.
+
+### System Engineer (Data Engineering Focus) | Tata Consultancy Services (TCS) | July 2022 – July 2024
 * Modernized financial reporting systems by extracting business logic from 200+ SQL procedures for critical updates.
 * Streamlined data integration across 15 databases using high-accuracy mappings to ensure seamless system transitions.
 * Improved data integrity by 40% by resolving 85+ quality issues through rigorous root cause analysis.
 * Guaranteed financial reporting precision by validating 450M+ transactions across several large-scale datasets.
 * Partnered with business & QA teams to translate requirements into actionable data solutions, reducing manual reporting time by 50%.
 
-### Testing Chamber Data Analyst | JMA Wireless | Aug 2024 – Dec 2024
-* Slashed SLA breaches by 40% by re-engineering testing workflows to eliminate systemic operational bottlenecks.
-* Reduced process variance by 2.5x, creating a standardized workflow that stabilized critical business output.
-* Captured $3.3M in annual savings while driving 45% productivity gains through advanced performance analytics.
-* De-risked strategic scaling by providing scenario models with 95% statistical confidence for executive leadership.
-
 ## 📂 Featured Projects
 
-### 1. Healthcare Hub: End-to-End Analytics Engineering
+### 1. NYC Taxi: End-to-End Data Engineering & ML Pipeline (5.7M+ Records)
+Built a production-grade data pipeline and machine learning system to process, transform, and serve large-scale NYC taxi trip data for real-time analytics and prediction.
+* **Impact**: Achieved R² of 0.905 (fare prediction), 0.896 (demand forecasting), and 90.5% classification accuracy (tip prediction) while improving high-tip detection F1 from 0.42 → 0.91, enabling accurate revenue forecasting and customer behavior insights.
+* **Engineering**: Engineered a scalable ELT pipeline using PySpark 3.5, Snowflake, and dbt (Bronze → Silver → Gold) processing 5.7M+ records in <15 minutes, with automated data quality validation (10+ tests) improving dataset reliability by 4%.
+* **Deployment**: Delivered real-time inference through FastAPI endpoints (/predict/fare, /predict/demand, /predict/tip) with Pydantic validation and model registry integration, enabling seamless consumption by downstream analytics and BI systems.
+---
+
+### 2. Healthcare Hub: End-to-End Analytics Engineering
 Designed and implemented a scalable ELT pipeline using dbt and Snowflake to transform raw healthcare business data into governed Power BI intelligence.
 * **Impact**: Reduced manual auditing time by 50%, improved pipeline maintainability by 3x, and established a Single Source of Truth across Sales, Inventory, Procurement, and Healthcare operations.
 * **Engineering**: Built a modular ELT architecture in Snowflake using dbt (staging → marts → star schema), implemented automated data quality tests (unique & non-null constraints), and designed conformed dimensions (Date, Product, Store) using the Kimball Bus Matrix to enable drill-across analytics across multiple fact tables.
 ---
 
-### 2. History of AI and ML: Comprehensive Market Analysis
+### 3. History of AI and ML: Comprehensive Market Analysis
 Built an interactive Tableau dashboard analyzing the global evolution of Artificial Intelligence and Machine Learning, quantifying investment flows, job market transformation, corporate adoption, and the post-ChatGPT paradigm shift.
 * **Impact**: Identified a $534.5B U.S. AI investment dominance, measured 300%+ post-ChatGPT search growth across AI domains, and analyzed 190K+ AI-related job postings to uncover high-demand skills and global competitiveness trends.
 * **Engineering**: Aggregated multi-source datasets (investment reports, job market data, AI readiness indices), implemented time-series and correlation analysis to detect inflection points (e.g., ChatGPT launch), and developed multi-layered Tableau dashboards with geographic mapping, domain heatmaps, corporate employment tracking, and dynamic drill-down filters.
 ---
 
-### 3. Crime Detection in Syracuse Using Machine Learning
+### 4. Crime Detection in Syracuse Using Machine Learning
 Developed a machine learning system to forecast crime trends and classify high-risk zones in Syracuse using time-series modeling and spatial risk prediction.
 * **Impact**: Achieved 0.86 R² using SARIMA for temporal forecasting and 88.6% accuracy with Random Forest for spatial risk classification, enabling proactive hotspot identification and data-driven resource allocation.
 * **Engineering**: Built a spatio-temporal pipeline integrating crime and unemployment data (2023–2024), applied SMOTE to improve minority class performance by 15%, engineered socioeconomic features, and deployed an interactive Folium (Leaflet.js) dashboard with dynamic risk-zone visualization and drill-down crime insights.
 ---
 
-### 4. Energy Hub: Predictive Consumption & Grid Reliability
+### 5. Energy Hub: Predictive Consumption & Grid Reliability
 Designed an end-to-end predictive analytics platform to forecast energy demand spikes and simulate grid stress under extreme climate scenarios in South Carolina..
 * **Impact**: Achieved 93.16% predictive accuracy with SVM regression, quantified a 32% exponential demand surge per 5° temperature rise, and projected peak loads of 894.39 KWH—enabling proactive grid stabilization and climate-resilient planning.
 * **Engineering**: Built a full ELT + ML pipeline using Snowflake and dbt to create a feature store from housing and weather data (Arrow/Parquet optimized), then deployed an R-based SVM (RBF kernel) forecasting engine with RMSE of 0.708. Delivered an interactive R Shiny dashboard for real-time “what-if” simulations of temperature-driven demand spikes and infrastructure stress testing.
 ---
 
-### 5. Flight Delay Prediction (6M+ Records)
+### 6. Flight Delay Prediction (6M+ Records)
 Built a large-scale machine learning pipeline to classify and predict 15+ minute flight delays using U.S. aviation data.
 * **Impact**: Achieved 92.11% accuracy with a Random Forest classifier and identified departure delay as the strongest leading indicator of arrival delay—enabling earlier operational intervention and logistics optimization.
 * **Engineering**: Processed 6,073,466 flight records from the U.S. Bureau of Transportation Statistics, engineered custom features (Route, Is_Delay), analyzed hub-level bottlenecks at O'Hare International Airport and Hartsfield-Jackson Atlanta International Airport, and optimized a high-dimensional Random Forest model that outperformed KNN in predictive stability and scalability.
 ---
 
-### 6. Movie Metrics: Predictive Modeling for Box Office Revenue
+### 7. Movie Metrics: Predictive Modeling for Box Office Revenue
 Built a regression-based predictive framework using the IMDb 5000 dataset to quantify key drivers of box office success and estimate pre-production revenue potential.
 * **Impact**: Identified Budget and User Reviews as the strongest statistically significant predictors of gross revenue, while revealing that high “Star Power” (social media reach) alone does not guarantee financial success—challenging common studio assumptions.
 * **Engineering**: Cleaned and standardized 5,000+ film records from the Internet Movie Database, engineered a composite “Social Media Impact” feature (director + lead actor engagement), and developed a Multiple Linear Regression model to quantify the combined effect of budget, IMDb score, and audience reach on revenue outcomes.
