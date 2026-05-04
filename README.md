@@ -167,12 +167,12 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
-- Portfolio: https://your-portfolio-link  
+- LinkedIn: https://www.linkedin.com/in/prasad-patil-64a83221a/
+- Portfolio: https://prasadpatil0103.github.io
 - Email: prasad.patil.ds@gmail.com  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=prasadpatil0103&show_icons=true&theme=tokyonight)
+[Stats](https://github-readme-stats.vercel.app/api?username=prasadpatil0103&show_icons=true&theme=tokyonight)
