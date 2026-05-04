@@ -14,11 +14,14 @@
 
 ## 🏗️ Technical Skills
 
-- **Data Engineering:** ELT Pipelines, Data Modeling, Data Quality, Batch Processing  
+- **Data Engineering Lifecycle:** Ingestion, Storage, Transformation, Serving, Batch Pipelines, ELT  
 - **Programming:** Python, SQL  
 - **Platforms:** Snowflake, Databricks, PostgreSQL  
 - **Orchestration:** Airflow  
-- **Tools:** dbt, Power BI, Tableau, GitHub  
+- **Data Modeling:** Dimensional Modeling, Schema Design, Data Marts  
+- **Data Quality:** Validation, Reconciliation, Monitoring, Anomaly Detection  
+- **Visualization:** Power BI, Tableau  
+- **Tools:** dbt, GitHub   
 
 ---
 
