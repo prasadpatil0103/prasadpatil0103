@@ -9,10 +9,10 @@ Authorized to work in the US — OPT EAD June 2026–2027 · STEM extension elig
 
 | Metric | Value |
 |---|---|
-| **Records Processed** | 450M+ financial transactions · 5.7M+ taxi records · 96K+ real-time orders |
-| **Revenue Impact** | $21M risk identified · $3.3M savings enabled · $15.42M revenue tracked |
-| **Data Quality** | 40% reliability improvement · 50% audit reduction · 30% failure reduction |
-| **Model Performance** | XGBoost AUC 0.81 · Prophet MAPE 0.6% · Random Forest R²=0.62 · SARIMA R²=0.86 |
+| **Records Processed** | 450M+ financial transactions · 5.7M+ taxi records · 307K+ loan applications · 96K+ real-time orders |
+| **Revenue Impact** | $21M risk identified · $3.3M savings enabled · $15.42M revenue tracked · $34K LTV gap quantified |
+| **Data Quality** | 40% reliability improvement · 50% audit reduction · 100% dbt test pass rate · 30% failure reduction |
+| **Model Performance** | Churn AUC 0.90 · XGBoost AUC 0.81 · Prophet MAPE 0.6% · Random Forest R²=0.62 · SARIMA R²=0.86 |
 
 ---
 
@@ -56,7 +56,7 @@ ETL pipelines over 450M+ financial transactions · 200+ SQL procedures optimized
 ## Projects
 
 ### 🏦 [Retail Banking Customer Analytics Platform](https://github.com/prasadpatil0103/Retail-Banking-Customer-Analytics-Platform)
-AWS Glue PySpark ETL → Redshift Serverless star schema → dbt → Airflow → Power BI · XGBoost + SHAP + SARIMA
+AWS Glue PySpark ETL → Redshift Serverless star schema → dbt → Airflow → Power BI · XGBoost + SHAP + SARIMA  
 **307K loan applications · 8.35% vs 5.48% default gap (χ²=293.15 p≈0) · $34K LTV spread · Churn AUC 0.90 · Credit Risk AUC 0.69 · 6 dbt models 100% tests passing**
 
 ### 🛒 [SmartShop — Real-Time E-Commerce Streaming Pipeline](https://github.com/prasadpatil0103/SmartShop-Analytics)
